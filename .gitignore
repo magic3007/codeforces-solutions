@@ -1,0 +1,5 @@
+ans*.txt
+in*.txt
+
+node_modules/
+*/**/*.dSYM/
